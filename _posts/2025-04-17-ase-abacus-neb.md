@@ -9,9 +9,9 @@ toc: true
 
 > ABACUS currently does not have built-in NEB calculation capability and can only perform NEB calculations by invoking ABACUS through ASE (Atomic Simulation Environment, a Python library).
 
-> Note: I copy many things form ATST-Tools directly. Its Github Repo: https://github.com/QuantumMisaka/ATST-Tools . This post is only for archiving.
+> Note: I copy many things form [ATST-Tools](https://github.com/QuantumMisaka/ATST-Tools) directly. This post is only for archiving.
 
-> All files in this document can be downloaded from: https://moseyqaq.github.io/assets/archive/abacus-neb.zip
+> All files in this document can be downloaded from [here](https://moseyqaq.github.io/assets/archive/abacus-neb.zip)
 
 ## 1. Install ASE-ABACUS Interface
 
